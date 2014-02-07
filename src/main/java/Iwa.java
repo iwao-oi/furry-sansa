@@ -15,6 +15,6 @@ public class Iwa
 {
   public Iwa()
   {
-    
+    System.out.println("Iwa !");
   }
 }
