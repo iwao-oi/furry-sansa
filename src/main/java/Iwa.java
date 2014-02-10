@@ -28,6 +28,11 @@ public class Iwa
    */
   public static final void main(String[] args)
   {
+    echo();
+  }
+  
+  private static final void echo()
+  {
     System.out.println("aaa");
   }
 }
