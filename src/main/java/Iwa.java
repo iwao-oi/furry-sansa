@@ -13,11 +13,19 @@
  */
 public class Iwa
 {
+  /**
+   * コンストラクタです。
+   */
   public Iwa()
   {
     System.out.println("Iwa !");
   }
   
+  /**
+   * メインメソッドです。
+   * 
+   * @param args コマンドライン・パラメータ
+   */
   public static final void main(String[] args)
   {
     System.out.println("aaa");
