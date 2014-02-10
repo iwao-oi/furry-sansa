@@ -17,4 +17,9 @@ public class Iwa
   {
     System.out.println("Iwa !");
   }
+  
+  public static final void main(String[] args)
+  {
+    System.out.println("aaa");
+  }
 }
